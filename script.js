@@ -1,4 +1,4 @@
-const API_URL = "YOUR_MOCKAPI_LINK_HERE";
+const API_URL = "https://69ea537015c7e2d51269b0d3.mockapi.io/pets";
 
 const petsContainer = document.getElementById("petsContainer");
 const petForm = document.getElementById("petForm");
